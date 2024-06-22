@@ -1,0 +1,7 @@
+ipykernel
+scikit-learn
+pandas
+pyarrow
+nbconvert
+pipenv
+typer
